@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a developer, I live by the mantra "Just. Keep. Building." I'm driven by a genuine love for coding, always pushing beyond tutorials to gain hands-on, real-world experience. I’m currently focused on learning Python while deepening my expertise in JavaScript, React, and AWS. My goal is to continually expand my skill set and backend capabilities to become a more versatile developer.<br><br>When I’m not coding, I’m at the gym, sweating violently in a hot yoga class, catching up with friends, or passionately supporting the Canucks.
+As a developer, I live by the mantra "Just. Keep. Building." I'm driven by a genuine love for coding, always pushing beyond tutorials to gain hands-on, real-world experience. <br><br>When I’m not coding, I’m at the gym, sweating violently in a hot yoga class, catching up with friends, or passionately supporting the Canucks.
 
 
 ## 🌐 Socials:
